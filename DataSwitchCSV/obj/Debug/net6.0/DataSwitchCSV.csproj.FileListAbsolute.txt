@@ -1,0 +1,7 @@
+C:\Users\monge\Downloads\DataSwitchCSV\DataSwitchCSV\obj\Debug\net6.0\DataSwitchCSV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monge\Downloads\DataSwitchCSV\DataSwitchCSV\obj\Debug\net6.0\DataSwitchCSV.AssemblyInfoInputs.cache
+C:\Users\monge\Downloads\DataSwitchCSV\DataSwitchCSV\obj\Debug\net6.0\DataSwitchCSV.AssemblyInfo.cs
+C:\Users\monge\Downloads\DataSwitchCSV\DataSwitchCSV\obj\Debug\net6.0\DataSwitchCSV.csproj.CoreCompileInputs.cache
+C:\Users\monge\Downloads\DataSwitchCSV\DataSwitchCSV\obj\Debug\net6.0\DataSwitchCSV.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\monge\Downloads\DataSwitchCSV\DataSwitchCSV\obj\Debug\net6.0\DataSwitchCSV.RazorAssemblyInfo.cache
+C:\Users\monge\Downloads\DataSwitchCSV\DataSwitchCSV\obj\Debug\net6.0\DataSwitchCSV.RazorAssemblyInfo.cs
